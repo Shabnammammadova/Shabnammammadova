@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Tpescript,NextJs,Node.js**
 
-- 💬 Ask me about **Javascript,ReactJs**
+- 💬 Ask me about **Html,Css,Sass/Scss,Responsive design,Tailwind css,Javascript,ReactJs**
 
 - 📫 How to reach me **mammadovaashabnamm@gmail.com**
 
