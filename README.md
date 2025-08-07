@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Typescript,NextJs,Node.js**
-
-- 💬 Ask me about **Html,Css,Sass/Scss,Responsive design,Tailwind css,Javascript,ReactJs**
+- 💬 Ask me about **Javascript,ReactJs,Typescript**
 
 - 📫 How to reach me **mammadovaashabnamm@gmail.com**
 
